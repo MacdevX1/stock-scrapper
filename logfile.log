@@ -1,0 +1,6 @@
+cat > logfile.log <<EOF
+[2025-10-16 15:50:11] INFO: System startup complete.
+[2025-10-16 15:51:03] WARNING: Disk space is running low.
+[2025-10-16 15:52:16] ERROR: Database connection failed.
+[2025-10-16 15:53:20] WARNING: High memory usage detected.
+EOF

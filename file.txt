@@ -1,0 +1,6 @@
+cat > file.txt <<EOF
+contact-us@google.com
+sundar.pichai@google.com
+no-reply@microsoft.com
+support@yourdomain.net
+EOF
